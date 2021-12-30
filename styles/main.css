@@ -271,6 +271,12 @@ menu li button:hover {
   border: 2px solid #FFFFFF;
 }
 
+@media all and (max-width: 1030px) {
+  .motto h1 {
+    margin-bottom: 130px;
+  }
+}
+
 @media all and (max-width: 770px) {
   .motto {
     width: 670px;
@@ -278,12 +284,6 @@ menu li button:hover {
   }
   .motto h1 {
     margin-bottom: 120px;
-  }
-}
-
-@media all and (max-width: 1030px) {
-  .motto h1 {
-    margin-bottom: 130px;
   }
 }
 
@@ -375,7 +375,7 @@ menu li button:hover {
     font-family: Montserrat-Bold;
     font-style: normal;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 22px;
     line-height: 27px;
   }
 }
@@ -404,7 +404,7 @@ menu li button:hover {
     font-family: Montserrat-Bold;
     font-style: normal;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 18px;
     line-height: 27px;
     margin-bottom: 15px;
   }
