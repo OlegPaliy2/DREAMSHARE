@@ -146,6 +146,7 @@ menu {
         margin-bottom: 33px;
 
 
+
     }
 
     button {
@@ -172,6 +173,10 @@ menu {
         width: 670px;
         margin: 0;
     }
+    .motto h1 {
+        margin-bottom: 120px;
+    }
+
 }
 
 @media all and (max-width:420px) {
@@ -189,7 +194,7 @@ menu {
         font-weight: bold;
         font-size: 30px;
         line-height: 37px;
-        margin-bottom: 6px;
+        margin-bottom: 70px;
     }
 
     .motto p {
@@ -246,7 +251,7 @@ menu {
         font-family: Montserrat-Bold;
         font-style: normal;
         font-weight: bold;
-        font-size: 22px;
+        font-size: 18px;
         line-height: 27px;
     }
 
