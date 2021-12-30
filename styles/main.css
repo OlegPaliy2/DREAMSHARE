@@ -281,6 +281,12 @@ menu li button:hover {
   }
 }
 
+@media all and (max-width: 1030px) {
+  .motto h1 {
+    margin-bottom: 130px;
+  }
+}
+
 @media all and (max-width: 420px) {
   .motto {
     width: 281px;
@@ -369,7 +375,7 @@ menu li button:hover {
     font-family: Montserrat-Bold;
     font-style: normal;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 18px;
     line-height: 27px;
   }
 }
@@ -398,7 +404,7 @@ menu li button:hover {
     font-family: Montserrat-Bold;
     font-style: normal;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 22px;
     line-height: 27px;
     margin-bottom: 15px;
   }

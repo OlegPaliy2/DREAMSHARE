@@ -173,8 +173,16 @@ menu {
         width: 670px;
         margin: 0;
     }
+
     .motto h1 {
         margin-bottom: 120px;
+    }
+
+}
+
+@media all and (max-width:1030px) {
+    .motto h1 {
+        margin-bottom: 130px;
     }
 
 }
