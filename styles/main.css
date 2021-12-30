@@ -271,7 +271,7 @@ menu li button:hover {
   border: 2px solid #FFFFFF;
 }
 
-@media all and (max-width: 1030px) {
+@media all and (max-width: 1440px) {
   .motto h1 {
     margin-bottom: 130px;
   }
